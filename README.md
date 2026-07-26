@@ -4,13 +4,13 @@
   <img
     width="100%"
     alt="Hari Nisanth GitHub Profile Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Hari%20Nisanth&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Transforming%20ideas%20into%20impactful%20software%20with%20Full-Stack%20development&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Hari%20Nisanth&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20%7C%20Java%20Enthusiast%20%7C%20Tech%20Explorer&descAlignY=51&descAlign=62"
   />
 </a>
 
 ## Full-Stack Software Engineer • JAVA Enthusiast • IT Student
 
-Transforming ideas into impactful software through Full-Stack development and modern web technologies. Passionate about coding, building scalable applications, exploring new technologies, and solving real-world problems through clean and efficient code.
+Transforming ideas into impactful software through Full-Stack development and modern web technologies. Passionate about coding, building scalable applications, exploring new technologies, and solving real-world problems.
 
 <br>
 
@@ -88,7 +88,7 @@ An AI-powered insurance management platform featuring policy discovery, intellig
 <tr>
 <td width="50%" valign="top">
 
-### <a href="https://github.com/Harinisanth82/Book-Recommendation-System">Book Recommendation System</a>
+### <a href="https://github.com/Harinisanth82/Book-recommendation">Book Recommendation System</a>
 
 A personalized book recommendation platform that suggests books based on user preferences using recommendation algorithms and an interactive user interface.
 
